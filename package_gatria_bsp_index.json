@@ -12,7 +12,7 @@
         {
           "name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)",
           "architecture": "samd",
-          "version": "0.0.9",
+          "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/juanvalenciae/Gatria-samd/archive/refs/tags/v0.0.9.zip",
           "archiveFileName": "Gatria-samd-1.0.0.zip",
